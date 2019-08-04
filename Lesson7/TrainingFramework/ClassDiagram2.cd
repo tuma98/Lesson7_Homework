@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GSSetting" Collapsed="true">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAEAAAAgAAgAAQAAAEAAAAABAAIhACAAgEAAA=</HashCode>
+      <FileName>src\GameStates\GSSetting.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GSPlay" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYgAAAAEAAAAgAAgAAQAQAEAAAAAAAAIBACgAiAAAA=</HashCode>
+      <FileName>src\GameStates\GSPlay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GSMenu" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQggAAAEAAAAgAAgAAQgAAEAAAAAAAEIBACAAgAAAA=</HashCode>
+      <FileName>src\GameStates\GSMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GSIntro">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJQgAAAgEAAAAgAAgAAQAAAAAAAAAQAAIAACAAgAAAA=</HashCode>
+      <FileName>src\GameStates\GSIntro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GSCredit" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAEEAAAAgAAgAAQAAAEAAAAAAEAMBACAAgAAAA=</HashCode>
+      <FileName>src\GameStates\GSCredit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStateMachine">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIgAAAAoBABAAAQCACAgAAAAAAAAAAkAQEAAAQA=</HashCode>
+      <FileName>src\GameStates\GameStateMachine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStateBase">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAEAAAAgAAgAAQAAAAAADAAAAAIAACAAgAAAA=</HashCode>
+      <FileName>src\GameStates\GameStatebase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="StateTypes" Collapsed="true">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAQEAAAAAAAAAQAAABAAAAAgA=</HashCode>
+      <FileName>src\GameStates\GameStateMachine.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
